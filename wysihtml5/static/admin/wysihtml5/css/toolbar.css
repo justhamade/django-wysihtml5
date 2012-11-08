@@ -2,25 +2,6 @@
     position: relative;
 }
 
-header {
-  display: block;
-  border-radius: 4px;
-  width: 610px;
-  background: #f6f6f6;
-  position: relative;
-  z-index: 1;
-  text-align: center;
-  border: 1px solid #ddd\9; /* IE 8 and below */
-  background-image: linear-gradient(bottom, rgb(238,238,238) 0%, rgb(255,255,255) 100%);
-  background-image: -o-linear-gradient(bottom, rgb(238,238,238) 0%, rgb(255,255,255) 100%);
-  background-image: -moz-linear-gradient(bottom, rgb(238,238,238) 0%, rgb(255,255,255) 100%);
-  background-image: -webkit-linear-gradient(bottom, rgb(238,238,238) 0%, rgb(255,255,255) 100%);
-  background-image: -ms-linear-gradient(bottom, rgb(238,238,238) 0%, rgb(255,255,255) 100%);
-  box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.3);
-  font-size: 0;
-  text-align: center;
-}
-
 DIV.commands {
     margin: 5px 0 0;
     padding: 0px;
